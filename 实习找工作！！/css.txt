@@ -1,0 +1,19 @@
+页面怎么优化提高响应，快速给用户反应。
+一个页面，左边是导航栏，右边是具体内容，你怎么编写代码布局
+（我说我用两个div布局，babababaab...）
+然后他说div是块级元素，怎么让他们在一行表示
+div垂直居中，文字水平居中
+
+css还有什么属性
+display有几种，有什么区别
+块级元素：可以设置高度宽度和行高，上下边距等<div>, <p>, <h1>, <form>, <ul> 和 <li>是块元素的例子。
+行内元素：不可以设置这些，宽度就是文字或图片的宽度，<span>, <a>, <label>, <input>, <img>, <strong> 和<em>是inline元素的例子。
+block，inline,block-inline（可以设置宽度和高度的内联对象（行对象））
+如果让两个div在同一行中，可以设置display=inline
+
+vertical-align垂直对其，text-align水平对齐
+
+盒模型：margin padding border
+
+position:
+overflow：hidden，scroll,visible,auto,inherit
